@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-openai
+fastapi
+google-genai
+dotenv
+streamlit
