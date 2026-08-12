@@ -5,3 +5,5 @@ fastapi
 google-genai
 dotenv
 streamlit
+httpx
+langchain-ollama
