@@ -7,3 +7,5 @@ dotenv
 streamlit
 httpx
 langchain-ollama
+langchain-community
+langgraph
