@@ -39,7 +39,7 @@ memory = st.session_state.memory
 # LLM
 llm = ChatGroq(
     model="openai/gpt-oss-20b",
-    temperature=0,
+    temperature=0.3,
 )
 
 # TOOLS
@@ -163,6 +163,8 @@ if query:
                 },
                 config=thread_config,
             )
+            
+            print(response)
 
 
             

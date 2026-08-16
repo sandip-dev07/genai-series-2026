@@ -9,3 +9,5 @@ httpx
 langchain-ollama
 langchain-community
 langgraph
+pypdf
+beautifulsoup4
